@@ -267,47 +267,47 @@ const fighters =[
   {
       title: "Fred",
       description:"Me when I see a good deal: Here, have ALL my money! 🐟",
-      imgUrl:"/images/fish/moneybag.jpg",
+      imgUrl:"/images/fish/p1.jpg",
   },
   {
       title: "Fred",
       description:"Buying FRED vs Not buying FRED 🐟",
-      imgUrl:"/images/fish/happy.jpg",
+      imgUrl:"/images/fish/p2.jpg",
   },
   {
       title: "Fred",
       description:"Rock out with my cock out!🐟",
-      imgUrl:"/images/fish/RockOut.jpg",
+      imgUrl:"/images/fish/p3.jpg",
   },
   {
       title: "Fred",
       description:"Peace out fishes! 🐟",
-      imgUrl:"/images/fish/yeah.jpg",
+      imgUrl:"/images/fish/p4.jpg",
   },
   {
       title: "Fred",
       description:"Water's warm. Brain,s off. We vibin'. 🐟",
-      imgUrl:"/images/fish/weekend.jpg",
+      imgUrl:"/images/fish/p5.jpg",
   },
   {
       title: "Fred",
       description:"Overthinking? Nah. I'm under-floating.🐟",
-      imgUrl:"/images/fish/what.jpg",
+      imgUrl:"/images/fish/p6.jpg",
   },
   {
       title: "Fred",
       description:"He's not lost. He's just vibing with friends. 🐟",
-      imgUrl:"/images/fish/fred5.jpg",
+      imgUrl:"/images/fish/p7.jpg",
   },
   {
       title: "Fred",
       description:"Stress? Never met her. 🐟",
-      imgUrl:"/images/fish/fred3.jpg",
+      imgUrl:"/images/fish/p9.jpg",
   },
   {
       title: "Fred",
       description:"Tides gonna tide. I'm just sipping 🐟",
-      imgUrl:"/images/fish/fred8.jpg",
+      imgUrl:"/images/fish/p2.jpg",
   }
   // ,
   // {

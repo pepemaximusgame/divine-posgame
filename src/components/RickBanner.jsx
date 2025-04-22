@@ -16,15 +16,11 @@ import { RickExperience } from "./RickExperience";
             <Row className="align-items-center">
                 <Col xs={12} md={6} xl={6}>
                 {/* <span className="tagline">Bigger  Better Stronger</span> */}
-                <h1>{'Meet Rick'}<span className="wrap"></span></h1>
-                <h1>{'The Scientist!'}<span className="wrap">!</span></h1>
-                <p>Rick was a brilliant scientist who invented a time travel device. However, the device had its limitations—it could only take him into the future, never into the past. Confident in his invention, Rick decided to explore what lay ahead.
-
-When $FRED, a new cryptocurrency, emerged, Rick dismissed it as just another rug pull scheme, like many others before it. He didn't invest and moved on, certain he'd made the wise choice.
-
-Years later, Rick traveled to the future, only to discover that $FRED had become a global sensation—a once-in-a-lifetime opportunity that he had completely overlooked. Now old, frustrated, and poor, Rick lived with the regret of his skepticism.
-
-The lesson? Don't be like Rick. Keep an open mind, and don't let doubt make you miss out on potential opportunities!</p>
+                <h1>{'POSEIDON'}<span className="wrap"></span></h1>
+                <h1>{'History'}<span className="wrap"></span></h1>
+                <p>Olympians and a powerful deity in ancient mythology. He was the son of Cronus and Rhea, making him a brother to Zeus and Hades. When the three brothers divided the world, Poseidon was given dominion over the seas
+                Poseidon wielded a trident, which he used to stir the oceans and create storms. He was also associated with horses, earning the title Poseidon Hippios.
+                </p>
                 {/* <button className="pointer-events-auto" onClick={() => {navigate('/game')}} >Let's Play<ArrowRightCircle size={25}/></button> */}
                 </Col>
                 <Col xs={12} md={6} xl={6}>

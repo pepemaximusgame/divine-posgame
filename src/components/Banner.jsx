@@ -16,9 +16,8 @@ import { FishExperience } from "./FishExperience";
             <Row className="align-items-center">
                 <Col xs={12} md={6} xl={6}>
                 <span className="tagline">Run Jump Play !</span>
-                <h1>{'Fred The Fish'}<span className="wrap">!</span></h1>
-                <p>Welcome to the deep end of decentralized fun.Fred the Fish is not just a quirky name in the crypto world—it's a symbol of innovation and community-driven values. 
-                As a cryptocurrency, Fred the Fish aims to combine the fun side of meme coins with a deeper purpose. Join the Ride, HODL and Play with FRED!</p>
+                <h1>{'Soldier of Poseidon'}<span className="wrap">!</span></h1>
+                <p>Welcome to the deep end of decentralized fun. Poseidon, the mighty god of the sea in Greek mythology, was a central figure in ancient Greek culture and coinage. As one of the Twelve Olympians, Poseidon ruled over the oceans, wielding his iconic trident, which symbolized his power to create storms, earthquakes, and calm waters. He was also associated with horses, earning the title Poseidon Hippios.</p>
                 <button className="pointer-events-auto " onClick={() => {navigate('/game')}} >
                     Let's Play
                     <ArrowRightCircle size={25}/></button>

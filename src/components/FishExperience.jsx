@@ -4,9 +4,10 @@ import { SpongebobfishHome } from './SpongebobfishHome'
 import { degToRad } from 'three/src/math/MathUtils.js';
 import { OrbitControls } from '@react-three/drei';
 import Particles from './Particles';
+import { God } from './God';
 
 export const FishExperience = () => {
-    const [animation, setAnimation] = useState("Hiphop Dancing");
+    const [animation, setAnimation] = useState("Fast_Run");
 
   return (
     <div className='hero-3d-layout'>
@@ -22,7 +23,7 @@ export const FishExperience = () => {
       minPolarAngle={Math.PI / 5} // Minimum angle for vertical rotation
       maxPolarAngle={Math.PI / 2} // Maximum angle for vertical rotation
     />
-       <SpongebobfishHome scale={2.5} animation={animation}/>
+       <God scale={2.5} animation={animation}/>
        <Particles count={500} />
        </group>
     </Canvas>

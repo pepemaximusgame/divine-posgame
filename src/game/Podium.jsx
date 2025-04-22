@@ -6,6 +6,7 @@ import { useAudioManager } from "../hooks/useAudioManager";
 import { useGameState } from "../hooks/useGameState";
 import { Character } from "./Character";
 import { Spongebobfish } from "./Spongebobfish";
+import { GodGame } from "./GodGame";
 
 export const Podium = () => {
   const { winner } = useGameState();
@@ -23,7 +24,7 @@ export const Podium = () => {
   }, []);
   return (
     <group>
-      <Spongebobfish
+      <GodGame
         name={winnerProfile?.name}
         color={winnerProfile?.color}
         position-y={0.5}

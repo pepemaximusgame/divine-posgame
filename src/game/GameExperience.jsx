@@ -1,7 +1,4 @@
 import { Environment, OrbitControls } from "@react-three/drei";
-import { Character } from "./Character";
-import { Hexagon } from "./Hexagon";
-import { Spongebobfish } from "./Spongebobfish";
 import { GameArena } from "./GameArena";
 import { useGameState } from "../hooks/useGameState";
 import { myPlayer } from "playroomkit";

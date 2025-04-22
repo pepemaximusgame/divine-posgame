@@ -18,6 +18,7 @@ import { Controls } from "./GameApp";
 import { useAudioManager } from "../hooks/useAudioManager";
 import { useGameState } from "../hooks/useGameState";
 import { FLOORS, FLOOR_HEIGHT } from "./GameArena";
+import { GodGame } from "./GodGame";
 
 const MOVEMENT_SPEED = 4.2;
 const JUMP_FORCE = 10;
@@ -149,17 +150,17 @@ export const CharacterController = ({
        // ANIMATION
     const movement = Math.abs(vel.x) + Math.abs(vel.z);
     if (inTheAir.current && vel.y > 2) {
-      setAnimation("Running");
-      state.setState("animation", "Running");
+      setAnimation("Fast_Run");
+      state.setState("animation", "Fast_Run");
     } else if (inTheAir.current && vel.y < -5) {
-      setAnimation("Searching Files High");
-      state.setState("animation", "Searching Files High");
+      setAnimation("Walking_5");
+      state.setState("animation", "Walking_5");
     } else if (movement > 1 || inTheAir.current) {
-      setAnimation("Running");
-      state.setState("animation", "Running");
+      setAnimation("Fast_Run");
+      state.setState("animation", "Fast_Run");
     } else {
-      setAnimation("Standing Up");
-      state.setState("animation", "Standing Up");
+      setAnimation("Jumping_Down");
+      state.setState("animation", "Jumping_Down");
     }
 
     if (
@@ -203,7 +204,7 @@ export const CharacterController = ({
 
         <group ref={cameraPosition} position={[0, 8, -16]}></group>
 
-          <Spongebobfish 
+          <GodGame 
           scale={1}
           color={state.state.profile.color}
           name={state.state.profile.name}
