@@ -265,50 +265,50 @@ const expLogos = [
 
 const fighters =[
   {
-      title: "Fred",
-      description:"Me when I see a good deal: Here, have ALL my money! 🐟",
-      imgUrl:"/images/fish/p1.jpg",
+      title: "Poseidon",
+      description:"Poseidon, ruler of the tides, master of the deep! 🌊⚡",
+      imgUrl:"/images/fish/po1.jfif",
   },
   {
-      title: "Fred",
-      description:"Buying FRED vs Not buying FRED 🐟",
-      imgUrl:"/images/fish/p2.jpg",
+      title: "Poseidon",
+      description:"With a trident in hand, he commands the oceans with absolute power.🌊🐎",
+      imgUrl:"/images/fish/po2.jfif",
   },
   {
-      title: "Fred",
-      description:"Rock out with my cock out!🐟",
-      imgUrl:"/images/fish/p3.jpg",
+      title: "Poseidon",
+      description:"The earth shakes and the waves rise at Poseidon's command!🌊⚡",
+      imgUrl:"/images/fish/po3.jfif",
   },
   {
-      title: "Fred",
-      description:"Peace out fishes! 🐟",
-      imgUrl:"/images/fish/p4.jpg",
+      title: "Poseidon",
+      description:"From stormy seas to tranquil waters, Poseidon’s will reigns supreme.🌊🐎",
+      imgUrl:"/images/fish/po4.jfif",
   },
   {
-      title: "Fred",
-      description:"Water's warm. Brain,s off. We vibin'. 🐟",
-      imgUrl:"/images/fish/p5.jpg",
+      title: "Poseidon",
+      description:"No force rivals the god who rides the waves and tames the storms.🌊⚡",
+      imgUrl:"/images/fish/po5.jfif",
   },
   {
-      title: "Fred",
-      description:"Overthinking? Nah. I'm under-floating.🐟",
-      imgUrl:"/images/fish/p6.jpg",
+      title: "Poseidon",
+      description:"The sea belongs to none, except the mighty Poseidon!🌊🐎",
+      imgUrl:"/images/fish/po6.jfif",
   },
-  {
-      title: "Fred",
-      description:"He's not lost. He's just vibing with friends. 🐟",
-      imgUrl:"/images/fish/p7.jpg",
-  },
-  {
-      title: "Fred",
-      description:"Stress? Never met her. 🐟",
-      imgUrl:"/images/fish/p9.jpg",
-  },
-  {
-      title: "Fred",
-      description:"Tides gonna tide. I'm just sipping 🐟",
-      imgUrl:"/images/fish/p2.jpg",
-  }
+  // {
+  //     title: "Fred",
+  //     description:"He's not lost. He's just vibing with friends. 🐟",
+  //     imgUrl:"/images/fish/p7.jpg",
+  // },
+  // {
+  //     title: "Fred",
+  //     description:"Stress? Never met her. 🐟",
+  //     imgUrl:"/images/fish/p9.jpg",
+  // },
+  // {
+  //     title: "Fred",
+  //     description:"Tides gonna tide. I'm just sipping 🐟",
+  //     imgUrl:"/images/fish/p2.jpg",
+  // }
   // ,
   // {
   //     title: "Fred",

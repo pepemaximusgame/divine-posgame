@@ -20,17 +20,17 @@ export const UI = () => {
       </h2>
       )}
 
-        <a href="https://pump.fun/coin/A15ZSsm9xEqXB5wvNFiV9YxKBxR5ZG693o4W9WaPpump">
+        <a href="https://pump.fun/">
         <img src="images/DexLogo.png" className="pointer-events-auto absolute top-8 right-20 w-4 h-4 transition duration-300 hover:scale-110 hover:rotate-5 hover:opacity-80" />
         </a>
 
-        <a href="https://x.com/fredfishgame">
+        <a href="https://x.com/">
         <img src="images/xLogo.png" className="pointer-events-auto absolute top-8 right-14 w-4 h-4 transition duration-300 hover:scale-110 hover:rotate-5 hover:opacity-80" />
         </a>
 
-        <a href="https://t.me/fredfishgame">
+        {/* <a href="https://t.me/">
         <img src="images/teleLogo.png" className="pointer-events-auto absolute top-8 right-8 w-4 h-4 transition duration-300 hover:scale-110 hover:rotate-5 hover:opacity-80" />
-        </a> 
+        </a>  */}
 
       
       <img src="images/logo.png" className="absolute top-4 left-2 w-14 h-14 md:w-28 md:h-28 sm:w-14 sm:h-14" />
