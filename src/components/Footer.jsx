@@ -15,7 +15,7 @@ const Footer = () => {
 
       <div>
       <p className="text-[8px] py-2">
-        CA-coming soon
+        CA-7aybNzgLj5tHcCsCjTfTMi16ipvSqM2aoHQgV45Rpump
       </p>
       <p className="text-sm ">
         &copy; {new Date().getFullYear()} All Rights Reserved.
